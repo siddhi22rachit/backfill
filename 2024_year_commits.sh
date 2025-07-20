@@ -3,7 +3,7 @@
 # Months from January to July (2025)
 for month in {01..07}
 do
-  year=2025
+  year=2024
 
   echo "Processing month $month..."
 
